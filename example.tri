@@ -1,0 +1,8 @@
+!this is an example program
+let
+	const meow ~ 10;
+	const meow ~ 10;
+	const woof ~ 100;
+in 
+	if MEOW < 5 then meow := 15; noelse ;
+;

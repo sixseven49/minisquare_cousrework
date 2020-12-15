@@ -1,0 +1,46 @@
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.deps.json
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.json
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.dev.json
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.dll
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.pdb
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.csprojAssemblyReference.cache
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfoInputs.cache
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfo.cs
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.dll
+C:/Users/Mark/Desktop/Lab7ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.pdb
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.deps.json
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.json
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.dev.json
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.dll
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.pdb
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.csprojAssemblyReference.cache
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfoInputs.cache
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfo.cs
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.csproj.CoreCompileInputs.cache
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.dll
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.pdb
+C:/Users/markb/Desktop/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.genruntimeconfig.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.deps.json
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.json
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.dev.json
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.dll
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/bin/Debug/netcoreapp2.1/Compiler.pdb
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.csprojAssemblyReference.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfoInputs.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfo.cs
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.csproj.CoreCompileInputs.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.dll
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.pdb
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/Lab8ModelSolution/Compiler/obj/Debug/netcoreapp2.1/Compiler.genruntimeconfig.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/bin/Debug/netcoreapp2.1/Compiler.deps.json
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.json
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/bin/Debug/netcoreapp2.1/Compiler.runtimeconfig.dev.json
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/bin/Debug/netcoreapp2.1/Compiler.dll
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/bin/Debug/netcoreapp2.1/Compiler.pdb
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/obj/Debug/netcoreapp2.1/Compiler.csprojAssemblyReference.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfoInputs.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/obj/Debug/netcoreapp2.1/Compiler.AssemblyInfo.cs
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/obj/Debug/netcoreapp2.1/Compiler.csproj.CoreCompileInputs.cache
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/obj/Debug/netcoreapp2.1/Compiler.dll
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/obj/Debug/netcoreapp2.1/Compiler.pdb
+/Users/christinechau/Documents/Languages nd Compiler_CM4106/coursework/Compiler/obj/Debug/netcoreapp2.1/Compiler.genruntimeconfig.cache
